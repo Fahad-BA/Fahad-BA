@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [My Website](https://FahadBA.com)
 
-- 🌱 I’m currently learning **Python, Laravel, Flutter and Swift**
+- 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [https://FahadBA.com](https://FahadBA.com)
+- 👨‍💻 All of my projects are available at [FahadBA.com](https://FahadBA.com)
 
 - 📫 How to reach me **Hello@FahadBA.com**
 
-- 📄 Know about my experiences [https://FahadBA.com](https://FahadBA.com)
+- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/fahad-abdulrahman)
 
 - ⚡ Fun fact **I have a fish memory.**
 
