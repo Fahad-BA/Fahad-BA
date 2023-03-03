@@ -4,6 +4,6 @@
  
 
 ### :link: &nbsp;Connect with me
-[![Linkedin Badge]https://img.shields.io/badge/-Fahad_Bin_Abdulrahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/fahad-abdulrahman)](http://www.linkedin.com/in/fahad-abdulrahman) 
+[![Linkedin Badge](https://img.shields.io/badge/-Fahad_Bin_Abdulrahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/fahad-abdulrahman)](http://www.linkedin.com/in/fahad-abdulrahman) 
 [![Gmail Badge](https://img.shields.io/badge/-Fahad.Bandar@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:Fahad.Bandar@outlook.com)](mailto:Fahad.Bandar@outlook.com.com)
 
