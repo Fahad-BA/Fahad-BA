@@ -16,14 +16,11 @@
     <a href="https://www.linkedin.com/in/fahad-alhuqaili/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
     </a>
-    <a href="https://alhuqaili.com.com" target="_blank">
+    <a href="https://alhuqaili.com" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-28A745?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Website">
     </a>
     <a href="mailto:Fahad.Bandar@outlook.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Fahad">
-    </a>
-    <a href="https://twitter.com/your_twitter_handle" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile">
     </a>
   </p>
 </div>
@@ -42,7 +39,7 @@ As a dedicated enthusiast, I am a **Full-Stack Software Engineer** in my free ti
 
 Here are some of the technologies and areas I work with and explore:
 
-**Full-Stack Development (Next.js & Python focus):**
+**Full-Stack Development:**
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
@@ -65,6 +62,7 @@ Here are some of the technologies and areas I work with and explore:
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
 ---
@@ -84,15 +82,6 @@ Here are some of the technologies and areas I work with and explore:
 
 I'm always open to discussing new projects, collaboration opportunities, or system analysis challenges.
 
-* [![Gmail Badge](https://img.shields.io/badge/-Fahad.Bandar@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:Fahad.Bandar@outlook.com)](mailto:Fahad.Bandar@outlook.com.com)
-
+* [![Gmail Badge](https://img.shields.io/badge/-Fahad.Bandar@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:Fahad.Bandar@outlook.com)](mailto:Fahad.Bandar@outlook.com)
 * [![Linkedin Badge](https://img.shields.io/badge/-Fahad_Alhuqaili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/fahad-alhuqaili)](http://www.linkedin.com/in/fahad-alhuqaili)
-* **Portfolio:** [View My Projects](https://alhuqaili.com.com)
-
----
-
-<div align="center">
-  <a href="https://github.com/fahad-ba">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=fahad-ba.fahad-ba" alt="Visitors Count">
-  </a>
-</div>
+* **Portfolio:** [View My Projects](https://alhuqaili.com)
