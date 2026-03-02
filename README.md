@@ -1,87 +1,106 @@
-<div align="center">
-  <svg viewBox="0 0 220 90" width="224" height="90" style="color: #EAEAEA;">
-    <text x="50%" y="38" text-anchor="middle" font-family="'Space Grotesk', sans-serif, monospace" font-weight="700" font-size="28" fill="currentColor" letter-spacing="2">
-      FAHAD
-    </text>
-    <rect x="35" y="50" width="150" height="1.5" fill="currentColor" opacity="0.5" />
-    <text x="50%" y="72" text-anchor="middle" font-family="'Space Grotesk', sans-serif, monospace" font-weight="300" font-size="14" fill="#B3B3CC" letter-spacing="3">
-      ALHUQAILI
-    </text>
-  </svg>
-  <br>
-  
-  ### 🧑‍💻 System Analyst by Profession | Full-Stack Developer by Passion
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/fahad-alhuqaili/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-    </a>
-    <a href="https://alhuqaili.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-28A745?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Website">
-    </a>
-    <a href="mailto:Fahad.Bandar@outlook.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Fahad">
-    </a>
-  </p>
-</div>
+# Fahad Alhuqaili
+
+**System Analyst by Profession | Vibe-Coder by Passion**
+
+## 🌟 About Me
+
+I am Fahad Alhuqaili, a System Analyst focused on bridging the gap between business needs and technical solutions. My work involves designing, implementing, and optimizing complex systems. As a dedicated enthusiast, I'm passionate about technology, programming, and continuous learning.
+
+### 🔭 Currently
+- **System Analyst** at SIMAH (Saudi Credit Bureau) - Saudi Credit Information Company
+- Building personal projects and exploring new technologies
+- Always learning something new every week
+
+
+## 🚀 Tech Stack & Interests
+
+### Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Agents & AI
+![OpenClaw](https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logoColor=white)
+
+### System & Server Administration
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-231F20?style=for-the-badge&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![TMUX](https://img.shields.io/badge/TMUX-1BB91F?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+## 💼 Professional Experience
+
+### System Analyst @ SIMAH
+- Designing and implementing complex credit information systems
+- Bridging business requirements with technical solutions
+- Data analysis and system optimization
+- Working with enterprise-level databases and systems
+
+## 🛠️ Personal Projects
+
+### **[cooldl](https://github.com/Fahad-BA/cooldl)** - Download Bot
+- Automated download management system
+- Built with efficiency and reliability in mind
+- Demonstrates backend development skills
+
+### **[Todo-pwa](https://github.com/Fahad-BA/Todo-pwa)** - Progressive Web App Todo Manager
+- Modern PWA for task management
+- Offline-first approach with responsive design
+- Built with modern web technologies
+
+### **[read-and-burn](https://github.com/Fahad-BA/read-and-burn)** - Secure Message Reader
+- Self-destructing message system
+- Privacy-focused ephemeral messaging
+- Secure data handling and auto-deletion
+
+### **[easywa](https://github.com/Fahad-BA/easywa)** - WhatsApp Automation Tool
+- Simplified WhatsApp automation utilities
+- Streamlined messaging workflows
+- Practical bot development for communication
+
+### **[AIDashboard](https://github.com/Fahad-BA/AIDashboard)** - OpenClaw Agent Monitoring System
+- Real-time monitoring dashboard for OpenClaw agents
+- Beautiful SPA with agent status tracking and performance metrics
+- Self-hosted system with WebSocket live updates and custom agent profiles
+
+## 🎯 Interests & Focus Areas
+
+- **Data Analysis & Systems** - Making sense of complex data structures
+- **Server Administration** - Managing and optimizing server infrastructure
+- **Automation** - Streamlining processes through technology
+- **Web Automation** - Using tools like Playwright for testing and automation
+- **AI & Agent Development** - Building intelligent systems and agents
+- **Self-Learning** - Continuous improvement and skill development
+
+
+
+## 🎮 Vibe & Philosophy
+
+I believe in:
+- **Authenticity** - Being genuine and honest
+- **Continuous Growth** - Always learning and improving
+- **Practical Solutions** - Building things that work and matter
+- **Balanced Living** - Mixing technical expertise with human connections
+
+## 📫 Connect
+
+- **Email**: [Fahad.Bandar@outlook.com](Fahad.Bandar@outlook.com)
+- **LinkedIn**: [/in/fahad-alhuqaili](https://linkedin.com/in/fahad-alhuqaili)
+- **Portfolio**: [alhuqaili.com](https://alhuqaili.com)
 
 ---
 
-## 🎯 About Me
-
-I am **Fahad Alhuqaili**, a **System Analyst** focused on bridging the gap between business needs and technical solutions. My work involves designing, implementing, and optimizing complex systems.
-
-As a dedicated enthusiast, I am a **Full-Stack Software Engineer** in my free time, building scalable and maintainable applications using modern web technologies. I have a keen interest in **Server Administration, DevOps, and optimizing application performance**, especially in self-hosted environments.
-
----
-
-## 💻 Tech Stack & Interests
-
-Here are some of the technologies and areas I work with and explore:
-
-**Full-Stack Development:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-</p>
-
-**System & Server Administration:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
-</p>
-
-**Databases:**
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
-
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahad-ba&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=28A745&icon_color=28A745&text_color=B3B3CC" alt="Fahad's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-ba&theme=dark&hide_border=true&fire=28A745&ring=28A745&side_title=B3B3CC&currStreakLabel=B3B3CC" alt="Fahad's GitHub Streak">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-ba&layout=compact&theme=dark&hide_border=true&title_color=28A745&icon_color=28A745&text_color=B3B3CC" alt="Top Languages">
-</p>
-
----
-
-## 📧 Get In Touch
-
-I'm always open to discussing new projects, collaboration opportunities, or system analysis challenges.
-
-* [![Gmail Badge](https://img.shields.io/badge/-Fahad.Bandar@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:Fahad.Bandar@outlook.com)](mailto:Fahad.Bandar@outlook.com)
-* [![Linkedin Badge](https://img.shields.io/badge/-Fahad_Alhuqaili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/fahad-alhuqaili)](http://www.linkedin.com/in/fahad-alhuqaili)
-* **Portfolio:** [View My Projects](https://alhuqaili.com)
+⭐ Star my repositories if you find them useful!
