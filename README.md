@@ -51,7 +51,7 @@ I am Fahad Alhuqaili, a System Analyst focused on bridging the gap between busin
 
 ## 🛠️ Personal Projects
 
-### **[cooldl](https://github.com/Fahad-BA/cooldl)** - Download Bot
+### **[cooldl](https://t.me/cooldlbot)** - Download Bot
 - Automated download management system
 - Built with efficiency and reliability in mind
 - Demonstrates backend development skills
@@ -61,10 +61,11 @@ I am Fahad Alhuqaili, a System Analyst focused on bridging the gap between busin
 - Offline-first approach with responsive design
 - Built with modern web technologies
 
-### **[read-and-burn](https://github.com/Fahad-BA/read-and-burn)** - Secure Message Reader
+### **read-and-burn** - Secure Message Reader
 - Self-destructing message system
 - Privacy-focused ephemeral messaging
 - Secure data handling and auto-deletion
+- ...Under development
 
 ### **[easywa](https://github.com/Fahad-BA/easywa)** - WhatsApp Automation Tool
 - Simplified WhatsApp automation utilities
