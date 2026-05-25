@@ -61,11 +61,10 @@ I am Fahad Alhuqaili, a System Analyst focused on bridging the gap between busin
 - Offline-first approach with responsive design
 - Built with modern web technologies
 
-### **read-and-burn** - Secure Message Reader
+### **[RAB](https://github.com/Fahad-BA/RAB)** - Secure Message Reader
 - Self-destructing message system
 - Privacy-focused ephemeral messaging
 - Secure data handling and auto-deletion
-- ...Under development
 
 ### **[easywa](https://github.com/Fahad-BA/easywa)** - WhatsApp Automation Tool
 - Simplified WhatsApp automation utilities
