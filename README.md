@@ -65,32 +65,18 @@ I am Fahad Alhuqaili, a System Analyst focused on bridging the gap between busin
 - Search functionality with inline keyboard support
 - Powered by yt-dlp
 
-### [EasyWa](https://github.com/Fahad-BA/EasyWa) - WhatsApp Link Simplifier
+### [EasyWa](https://github.com/Fahad-BA/EasyWa) - WhatsApp Made Easy
 ![PHP](https://img.shields.io/badge/PHP-8.4+-purple?style=flat-square&logo=php)
 ![PWA](https://img.shields.io/badge/PWA-installable-purple?style=flat-square)
-- wa.me link shortener and simplifier
-- Installable PWA with offline cache
-- Self-hosted with dark theme UI
-
-### [AIDashboard](https://github.com/Fahad-BA/AIDashboard) - OpenClaw Agent Monitor
-![Node.js](https://img.shields.io/badge/Node.js-runtime-green?style=flat-square&logo=node.js)
-![Self-Hosted](https://img.shields.io/badge/Self--Hosted-orange?style=flat-square)
-- Real-time monitoring dashboard for OpenClaw agents
-- Beautiful SPA with agent status tracking and performance metrics
-- WebSocket live updates and custom agent profiles
+- Send WhatsApp messages without saving phone numbers
+- Installable PWA with offline cache and dark theme
+- Self-hosted with Cairo font and RTL support
 
 ### [Todo-pwa](https://github.com/Fahad-BA/todo-pwa) - Todo Manager
 ![PWA](https://img.shields.io/badge/PWA-installable-purple?style=flat-square)
 - Modern PWA for task management
 - Offline-first approach with responsive design
 - Built with modern web technologies
-
-### [fahadba.com](https://github.com/Fahad-BA/fahadba.com) - Personal Domain
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)
-![Self-Hosted](https://img.shields.io/badge/Self--Hosted-orange?style=flat-square)
-- Personal portfolio and landing page
-- Dark theme with custom error pages
-- Self-hosted on Ubuntu with nginx
 
 ## 🎯 Interests & Focus Areas
 
