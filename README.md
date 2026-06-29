@@ -49,32 +49,48 @@ I am Fahad Alhuqaili, a System Analyst focused on bridging the gap between busin
 - Data analysis and system optimization
 - Working with enterprise-level databases and systems
 
-## 🛠️ Personal Projects
+## 🛠️ Public Projects
 
-### **[cooldl](https://t.me/cooldlbot)** - Download Bot
-- Automated download management system
-- Built with efficiency and reliability in mind
-- Demonstrates backend development skills
+### [QattahApp](https://github.com/Fahad-BA/QattahApp) - Smart Bill Splitter
+![React](https://img.shields.io/badge/React-18+-blue?style=flat-square&logo=react)
+![PWA](https://img.shields.io/badge/PWA-installable-purple?style=flat-square)
+- Smart bill splitting app with Arabic RTL support
+- Built with React, Node.js, and SQLite
+- Progressive Web App with offline support
 
-### **[Todo-pwa](https://github.com/Fahad-BA/Todo-pwa)** - Progressive Web App Todo Manager
+### [TelegramY2A](https://github.com/Fahad-BA/TelegramY2A) - YouTube to Audio Bot
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
+![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?style=flat-square&logo=telegram)
+- Telegram bot for downloading YouTube videos as audio
+- Search functionality with inline keyboard support
+- Powered by yt-dlp
+
+### [EasyWa](https://github.com/Fahad-BA/EasyWa) - WhatsApp Link Simplifier
+![PHP](https://img.shields.io/badge/PHP-8.4+-purple?style=flat-square&logo=php)
+![PWA](https://img.shields.io/badge/PWA-installable-purple?style=flat-square)
+- wa.me link shortener and simplifier
+- Installable PWA with offline cache
+- Self-hosted with dark theme UI
+
+### [AIDashboard](https://github.com/Fahad-BA/AIDashboard) - OpenClaw Agent Monitor
+![Node.js](https://img.shields.io/badge/Node.js-runtime-green?style=flat-square&logo=node.js)
+![Self-Hosted](https://img.shields.io/badge/Self--Hosted-orange?style=flat-square)
+- Real-time monitoring dashboard for OpenClaw agents
+- Beautiful SPA with agent status tracking and performance metrics
+- WebSocket live updates and custom agent profiles
+
+### [Todo-pwa](https://github.com/Fahad-BA/todo-pwa) - Todo Manager
+![PWA](https://img.shields.io/badge/PWA-installable-purple?style=flat-square)
 - Modern PWA for task management
 - Offline-first approach with responsive design
 - Built with modern web technologies
 
-### **[RAB](https://github.com/Fahad-BA/RAB)** - Secure Message Reader
-- Self-destructing message system
-- Privacy-focused ephemeral messaging
-- Secure data handling and auto-deletion
-
-### **[easywa](https://github.com/Fahad-BA/easywa)** - WhatsApp Automation Tool
-- Simplified WhatsApp automation utilities
-- Streamlined messaging workflows
-- Practical bot development for communication
-
-### **[AIDashboard](https://github.com/Fahad-BA/AIDashboard)** - OpenClaw Agent Monitoring System
-- Real-time monitoring dashboard for OpenClaw agents
-- Beautiful SPA with agent status tracking and performance metrics
-- Self-hosted system with WebSocket live updates and custom agent profiles
+### [fahadba.com](https://github.com/Fahad-BA/fahadba.com) - Personal Domain
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)
+![Self-Hosted](https://img.shields.io/badge/Self--Hosted-orange?style=flat-square)
+- Personal portfolio and landing page
+- Dark theme with custom error pages
+- Self-hosted on Ubuntu with nginx
 
 ## 🎯 Interests & Focus Areas
 
@@ -97,7 +113,7 @@ I believe in:
 
 ## 📫 Connect
 
-- **Email**: [Fahad.Bandar@outlook.com](Fahad.Bandar@outlook.com)
+- **Email**: [Fahad@Alhuqaili.com](mailto:Fahad@Alhuqaili.com)
 - **LinkedIn**: [/in/fahad-alhuqaili](https://linkedin.com/in/fahad-alhuqaili)
 - **Portfolio**: [alhuqaili.com](https://alhuqaili.com)
 
