@@ -51,6 +51,14 @@ I am Fahad Alhuqaili, a System Analyst focused on bridging the gap between busin
 
 ## 🛠️ Public Projects
 
+### [Simon FM 🎵](https://github.com/Fahad-BA/DiscordBot) - Discord Music Bot
+![Python](https://img.shields.io/badge/Python-3.12+-blue?style=flat-square&logo=python)
+![discord.py](https://img.shields.io/badge/discord.py-2.7.1-blue?style=flat-square&logo=discord)
+- Discord music bot with native direct streaming via yt-dlp and FFmpeg
+- Full queue management: play, pause, skip, shuffle, loop, volume control
+- Smart auto-disconnect after 5 minutes of idle
+- No Lavalink required — zero disk overhead
+
 ### [QattahApp](https://github.com/Fahad-BA/QattahApp) - Smart Bill Splitter
 ![React](https://img.shields.io/badge/React-18+-blue?style=flat-square&logo=react)
 ![PWA](https://img.shields.io/badge/PWA-installable-purple?style=flat-square)
