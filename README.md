@@ -80,7 +80,7 @@ I am Fahad Alhuqaili, a System Analyst focused on bridging the gap between busin
 - Installable PWA with offline cache and dark theme
 - Self-hosted with Cairo font and RTL support
 
-### [Todo](https://github.com/Fahad-BA/todo) - Todo Manager
+### [Todo](https://github.com/Fahad-BA/todo-tanstack) - Todo Manager
 ![PWA](https://img.shields.io/badge/PWA-installable-purple?style=flat-square)
 - Modern PWA for task management
 - Offline-first approach with responsive design
