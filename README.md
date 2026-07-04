@@ -25,6 +25,8 @@ I'm Fahad Alhuqaili, a **System Analyst** at **SIMAH** (Saudi Credit Bureau) wit
 | 💸 [**QattahApp**](https://github.com/Fahad-BA/QattahApp) | React · Node.js · PWA | Smart bill splitter with Arabic RTL support |
 | 🤖 **AI Agent Dashboard** | — | Building intelligent systems with OpenClaw |
 | 🌐 **Personal CMS** | React · Express · PostgreSQL | Content management system from scratch |
+| 📝 [**Todo PWA**](https://github.com/Fahad-BA/todo-tanstack) | Vite · React · Express · SQLite | Notion-style task manager with subtasks & categories |
+| 🏆 [**WC 2026 Bot**](https://github.com/Fahad-BA/wc-2026-telegram-bot-v2) | Python · aiogram · SQLite | World Cup 2026 live notifications in Arabic |
 
 ---
 
@@ -102,6 +104,18 @@ I'm Fahad Alhuqaili, a **System Analyst** at **SIMAH** (Saudi Credit Bureau) wit
 ![PWA](https://img.shields.io/badge/PWA-installable-purple?style=flat-square)
 - Send WhatsApp messages without saving numbers
 - Self-hosted PWA with dark theme + RTL support
+
+### 📝 [Todo PWA](https://github.com/Fahad-BA/todo-tanstack) — Minimalist Task Manager
+![Vite](https://img.shields.io/badge/Vite-6.4-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
+- Notion-style dark todo app with subtasks, 6 categories, and mobile-first PWA
+- Express + SQLite backend with token auth, cross-device sync
+
+### 🏆 [WC 2026 Bot](https://github.com/Fahad-BA/wc-2026-telegram-bot-v2) — World Cup Telegram Bot
+![Python](https://img.shields.io/badge/Python-3.12+-blue?style=flat-square&logo=python)
+![aiogram](https://img.shields.io/badge/aiogram-3.x-blue?style=flat-square&logo=telegram)
+- Live World Cup 2026 notifications: goals, cards, lineups, and match summaries
+- Arabic localization with Riyadh timezone, API-Football integration
 
 ---
 
