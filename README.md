@@ -22,6 +22,7 @@ I'm Fahad Alhuqaili, a **System Analyst** at **SIMAH** (Saudi Credit Bureau) wit
 | Project | Stack | Description |
 |---------|-------|-------------|
 | 🎬 [**TV Tracker**](https://github.com/Fahad-BA/tv) | FastAPI · SQLite · Tailwind | Self-hosted TV/movie tracker with TMDB integration |
+| 📱 [**TAD**](https://github.com/Fahad-BA/TAD) | React · Vite · PWA | TikTok account details lookup — bilingual EN/AR, installable PWA |
 | 💸 [**QattahApp**](https://github.com/Fahad-BA/QattahApp) | React · Node.js · PWA | Smart bill splitter with Arabic RTL support |
 | 🤖 **AI Agent Dashboard** | — | Building intelligent systems with OpenClaw |
 | 🌐 **Personal CMS** | React · Express · PostgreSQL | Content management system from scratch |
@@ -72,6 +73,14 @@ I'm Fahad Alhuqaili, a **System Analyst** at **SIMAH** (Saudi Credit Bureau) wit
 ---
 
 ## 🚀 Featured Projects
+
+### [TAD 📱](https://github.com/Fahad-BA/TAD) — TikTok Account Details
+![React](https://img.shields.io/badge/React-18+-blue?style=flat-square&logo=react)
+![PWA](https://img.shields.io/badge/PWA-installable-purple?style=flat-square)
+![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+- Bilingual (EN/AR) TikTok account lookup: real stats, privacy, and country
+- Two-step RapidAPI flow with public-source fallbacks, 237-country coverage
+- Installable PWA with offline app shell and full RTL/LTR support
 
 ### [Simon FM 🎵](https://github.com/Fahad-BA/DiscordBot) — Discord Music Bot
 ![Python](https://img.shields.io/badge/Python-3.12+-blue?style=flat-square&logo=python)
