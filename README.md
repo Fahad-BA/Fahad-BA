@@ -10,7 +10,7 @@
 
 I'm Fahad Alhuqaili, a **System Analyst** at **SIMAH** (Saudi Credit Bureau) with a passion for building practical, self-hosted solutions. I specialize in translating business requirements into working systems, automating workflows, and exploring the intersection of AI and software development.
 
-- 🏢 **System Analysis Specialist** @ SIMAH
+- 🏢 **IT Business Analysis Specialist** @ SIMAH
 - 🎓 **B.IS Engineering** (GPA 4.32/5) · **Diploma in Computer Programming** (GPA 4.04/5)
 - 🌱 Currently exploring **AI agents**, **data analysis**, and **server management**
 - 💡 Philosophy: *Learn something new every week*
